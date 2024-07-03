@@ -1,1 +1,2 @@
 # Prasunet_DS_01
+This project uses Power BI to create visualizations that display thr distribution of a variable, either categorical or continuous. The focus is on analyzing and presenting the distribution of countries population of Men and Women over the years .By utilizing bar charts or histograms,this project aims to provide insights into how population figures vary across different countries and how they have evolved over time. this visualization will help in understanding demographic trends and patterns globally
